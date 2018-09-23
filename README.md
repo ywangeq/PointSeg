@@ -1,6 +1,6 @@
 We are checking the code.
 
-## Acknowledgments
+## Acknowledgements
 Code borrows from [squeezeseg](https://github.com/BichenWuUCB/SqueezeSeg) and is modified on it.
 
 The training dataset is available at

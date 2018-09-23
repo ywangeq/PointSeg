@@ -1,7 +1,8 @@
 We are checking the code.
 
 ## Acknowledgments
-Code borrows from [squeezeseg](https://github.com/BichenWuUCB/SqueezeSeg)
+Code borrows from [squeezeseg](https://github.com/BichenWuUCB/SqueezeSeg) and is modified on it.
+
 The training dataset is available at
     
     wget https://www.dropbox.com/s/pnzgcitvppmwfuf/lidar_2d.tgz  (from BichenWuUCB)

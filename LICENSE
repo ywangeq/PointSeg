@@ -1,4 +1,5 @@
 BSD 2-Clause License
+<<<<<<< HEAD
 Copyright (c) 2018, Yuan Wang
 All rights reserved.
 
@@ -30,6 +31,11 @@ DAMAGE.
 BSD 2-Clause License
 
 Copyright (c) 2017, Bichen Wu
+=======
+
+Copyright (c) 2017, Bichen Wu
+Further contributions copyright (c) 2018, Yuan Wang
+>>>>>>> a2582b0a05c42964f913a80a786da414f93cd479
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

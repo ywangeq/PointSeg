@@ -19,4 +19,5 @@ The training dataset is available at
     
     wget https://www.dropbox.com/s/pnzgcitvppmwfuf/lidar_2d.tgz  (from BichenWuUCB)
 
-I will release the generation code to train your own dataset later.
+I have release the code for generation dataset in
+    https://github.com/ywangeq/instance_dataset_gen
